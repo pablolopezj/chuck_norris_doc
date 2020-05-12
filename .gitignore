@@ -1,0 +1,16 @@
+/proyecto/proyecto/node_modules
+/proyecto/proyecto/public/hot
+/proyecto/proyecto/public/storage
+/proyecto/proyecto/storage/*.key
+/proyecto/proyecto/vendor
+/proyecto/proyecto/.env
+/proyecto/proyecto/.env.backup
+/proyecto/proyecto/.phpunit.result.cache
+/proyecto/proyecto/Homestead.json
+/proyecto/proyecto/Homestead.yaml
+/proyecto/proyecto/npm-debug.log
+/proyecto/proyecto/yarn-error.log
+/elements
+.env
+inicio.sh
+fin.sh
